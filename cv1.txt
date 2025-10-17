@@ -1,0 +1,11 @@
+Name: Alice Johnson
+Education: BA in Human Resources Management
+Experience: 4 years as HR Coordinator at XYZ Corp
+Skills:
+- Recruitment and onboarding
+- Employee benefits administration
+- Familiarity with labor laws compliance
+- HRIS and MS Office proficient
+Achievements:
+- Led a successful hiring campaign reducing time-to-fill by 20%
+- Developed employee handbook for compliance updates
